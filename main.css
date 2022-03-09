@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: rgb(170, 170, 196);
+    margin: 10px;
+    padding: 10px;
+    padding-left: 50px; 
+}
